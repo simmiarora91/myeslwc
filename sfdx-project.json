@@ -1,0 +1,14 @@
+{
+  "packageDirectories": [
+    {
+      "path": "es-base-objects",
+      "default": true
+    },
+    {
+      "path": "es-base-styles"
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "48.0"
+}
