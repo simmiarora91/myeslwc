@@ -1,12 +1,16 @@
 {
   "packageDirectories": [
     {
-      "path": "es-base-objects",
+      "path": "es-space-mgmt",
       "default": true
+    },
+    {
+      "path": "es-base-objects"
     },
     {
       "path": "es-base-styles"
     }
+   
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
